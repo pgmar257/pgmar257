@@ -1,2 +1,2 @@
-### Hi there i'm Paula 👋
+### Hey There! 👋
 
