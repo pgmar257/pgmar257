@@ -5,12 +5,14 @@
 # -*- coding: utf-8 -*-
 
 
+
 class PythonDeveloper:
 
     def __init__(self):
         self.first_name = "Paula"
         self.last_name = "García"
-        
+        self.role = "Currently seeking job opportunities and working on various personal projects."
+
         # Social Media
         self.linkedin = "https://www.linkedin.com/in/paula-garcia-martinez/"
 
