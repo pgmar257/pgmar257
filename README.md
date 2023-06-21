@@ -10,7 +10,6 @@ class PythonDeveloper:
     def __init__(self):
         self.first_name = "Paula"
         self.last_name = "García"
-        self.role = ""
         
         # Social Media
         self.linkedin = "https://www.linkedin.com/in/paula-garcia-martinez/"
