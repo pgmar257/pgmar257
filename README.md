@@ -1,9 +1,24 @@
-# Hello, World! 👋🌍
-Welcome to my GitHub profile! 
+## Hello, World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%">:earth_africa: 
 
-I'm a passionate Data Analyst and Python Developer, specializing in extracting valuable insights and crafting data-driven solutions. 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pgmar257)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/paula-garcia-martinez/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgmar257&hide_progress=true&theme=tokyonight)
+class PythonDeveloper:
+
+    def __init__(self):
+        self.first_name = "Paula"
+        self.last_name = "García"
+        self.role = ""
+        
+        # Social Media
+        self.linkedin = "https://www.linkedin.com/in/paula-garcia-martinez/"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = PythonDeveloper()
+me.say_hi()
+```
